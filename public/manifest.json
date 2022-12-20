@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Wurdle Game",
+  "author": "Amal.P.J",
+  "version": "1.0.1",
+  "description": "A wordle like game",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
